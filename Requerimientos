@@ -1,0 +1,18 @@
+1-Que al darle click al logo redireccione al inicio de la pagina(Completado)
+2- El hover del navbar cambiar de color a blanco(Completado)
+3-boton de servicios debe redireccionar a la seccion de servicios dentro de la pagina
+4-sustituir boton de productos por carrito
+5-el boton de carrito debera redirigirte a la sección de agregar materiales
+6-eliminar el contenido de proyectos 
+7-en la parte del footer eliminar el link Spotify y centrar si es necesario
+8-en la que era antes proyectos, agregar un to do list
+9-el to do list debe de ir en un contenedor con el fondo blanco
+10-el contenedor de la lista debe de ir con esquinas redondeadas y sombreado
+11-todo el contenido debe de ir centrado
+12-el titulo en color negro dentro del div, centrado y con fuente Arial
+13-debe de tener un input con un placeholder que diga "Agregar nuevo material"
+14-un boton de agregar lo que esta dentro del input 
+15-al darle click a agregar lo que estaba en el input se borra
+16- el contenido del input pasa a una lista no ordenada 
+17- la lista debe de ir acompañada por dos botones, Editar y Eliminar material
+18-cada boton debe de contener un icono de su respectiva función
